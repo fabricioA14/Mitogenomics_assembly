@@ -35,9 +35,9 @@ Kmer Step: The step value for iterating through the kmer range.
 
 # Workflow:
 
-<div align="center">
-    ![Alt text](https://github.com/fabricioA14/Mitogenomics_assembly/assets/73892283/872e49fe-5d36-4033-a7c9-5deccb53c292)
-</div>
+https://github.com/fabricioA14/Mitogenomics_assembly/assets/73892283/872e49fe-5d36-4033-a7c9-5deccb53c292
+
+
 
 
 
